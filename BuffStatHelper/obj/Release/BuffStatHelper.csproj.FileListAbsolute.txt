@@ -1,0 +1,10 @@
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\bin\Release\BuffStatHelper.exe.config
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\bin\Release\BuffStatHelper.exe
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\bin\Release\BuffStatHelper.pdb
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.csproj.AssemblyReference.cache
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.Form1.resources
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.Properties.Resources.resources
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.csproj.GenerateResource.cache
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.csproj.CoreCompileInputs.cache
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.exe
+C:\Users\kingm\Music\BuffStatHelper\BuffStatHelper\obj\Release\BuffStatHelper.pdb
